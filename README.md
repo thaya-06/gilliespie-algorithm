@@ -103,3 +103,6 @@ or a step-by-step numerical example (like solving one Gillespie iteration).
 
 
 Reference : https://lewiscoleblog.com/gillespie-algorithm
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-19 at 11 25 44 (2)" src="https://github.com/user-attachments/assets/47676370-5fd1-4840-9621-9efe9a24cb78" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-19 at 11 25 44 (1)" src="https://github.com/user-attachments/assets/6993bcdc-ab55-43ef-bb11-ecf07cad8b73" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-19 at 11 25 44" src="https://github.com/user-attachments/assets/a4aa7e99-e623-4232-9f2d-5a4de4864b8d" />
