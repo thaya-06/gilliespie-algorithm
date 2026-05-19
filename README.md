@@ -100,3 +100,6 @@ If you want, I can turn this into:
 exam notes (very concise),
 flowcharts,
 or a step-by-step numerical example (like solving one Gillespie iteration).
+
+
+Reference : https://lewiscoleblog.com/gillespie-algorithm
